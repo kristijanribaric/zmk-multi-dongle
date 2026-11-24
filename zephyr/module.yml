@@ -1,0 +1,4 @@
+name: zmk-multi-dongle
+build:
+  cmake: .
+  kconfig: Kconfig
